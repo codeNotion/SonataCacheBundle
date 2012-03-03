@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-	"sonata-project/block-bundle": "master-dev"
+	"sonata-project/block-bundle": "dev-composer"
     },
     "autoload": {
         "psr-0": { "Sonata\\CacheBundle": "" }
